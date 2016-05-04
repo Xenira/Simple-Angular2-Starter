@@ -21,6 +21,7 @@ Start:
 npm start
 ```
 
+Should you get dependency errors with the icons module change the peerDependencie "@angular/http": "2.0.0-rc.0" in "node_modules/@angular-material/icon/package.json" to "@angular/http": "2.0.0-rc.1",
 ## Why This Starter
 I have discovered that some starter projects out there are overloaded with a lot of stuff I don't need.
 That is why I started with the bare minimum and changed some properties to my needs.
