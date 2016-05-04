@@ -2,10 +2,10 @@
 Simple Angular 2 starter project with routing and material 2 based on the 5 min guide from angular.io
 
 ## Description
-This is a realy simple starter project based on the [5 MIN QUICKSTART](https://angular.io/docs/ts/latest/quickstart.html).
+This is a really simple starter project based on the [5 MIN QUICKSTART](https://angular.io/docs/ts/latest/quickstart.html).
 I have only made some slight adjustments to the base structure:
 * Changed the TypeScript output directory to "dist"
-* Moved Components to a seperate folder
+* Moved Components to a separate folder
 * Added routing
 * Added [Material Design components for Angular 2](https://github.com/angular/material2)
 
